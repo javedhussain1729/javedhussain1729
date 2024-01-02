@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @javedhussain
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning Machine learning and deep learning
-- 💞️ I’m looking to collaborate on traditional CV
-- 📫 How to reach me -
+- 💞️ I’m looking to collaborate on Deep learning using python
+- 📫 How to reach me - javedhussain1729@gmail.com
 
 <!---
 javedhussain1729/javedhussain1729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
